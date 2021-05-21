@@ -13,11 +13,10 @@
 ##### Here is the early image of the LAMP when i opened it, i simply got to know that a wire was removed from its place(the wire connected to the 4v battery).
  
 ##### I soldered the wire and connected the lamp to the supply but unfortunately i heard a loud  voice through which i could 
-##### recognise that the capacitor has blown. I opened it again and found the same that i guessed. 
+##### recognise that the capacitor has blown. I opened it again and found the same that i guessed and with capacitor a diode was also blown.
                                        
 
-#### I bought a new capacitor with bit high voltage compare to which was in it before(63v,100uf- new) 
-#### Soldered it in the PCB.
+#### I bought a new capacitor with bit high voltage compare to which was in it before(63v,100uf- new)  and a diode(1N4007). Soldered it in the PCB.
 
 ![IMG_20210401_145346 (2)](https://user-images.githubusercontent.com/79529647/119081102-24efa580-b9b0-11eb-837b-6ce1c2522067.jpg)
 
