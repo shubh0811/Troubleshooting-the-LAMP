@@ -17,7 +17,8 @@
                                        
 
 #### I bought a new capacitor with bit high voltage compare to which was in it before(63v,100uf- new) 
-.                           
+#### Soldered it in the PCB.
+
 ![IMG_20210401_145346 (2)](https://user-images.githubusercontent.com/79529647/119081102-24efa580-b9b0-11eb-837b-6ce1c2522067.jpg)
 
 
