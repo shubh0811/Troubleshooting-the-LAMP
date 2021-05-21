@@ -10,8 +10,8 @@
 ![IMG_20210327_135605](https://user-images.githubusercontent.com/79529647/119081235-6f712200-b9b0-11eb-8909-6f43faebb905.jpg)
 
  👆                             
-##### Here is the early image of the LAMP when i opened it, i simply got to know that a wire was removed from its place(the wire 
-##### connected to the 4v battery). 
+##### Here is the early image of the LAMP when i opened it, i simply got to know that a wire was removed from its place(the wire connected to the 4v battery).
+ 
 ##### I soldered the wire and connected the lamp to the supply but unfortunately i heard a loud  voice through which i could 
 ##### recognise that the capacitor has blown. I opened it again and found the same that i guessed. 
                                        
